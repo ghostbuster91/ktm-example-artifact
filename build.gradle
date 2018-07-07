@@ -15,8 +15,6 @@ apply plugin: 'application'
 group 'io.ghostbuster91.ktm.example'
 version '1.0-SNAPSHOT'
 
-apply plugin: 'kotlin'
-
 sourceCompatibility = 1.8
 
 repositories {
